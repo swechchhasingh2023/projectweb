@@ -1,0 +1,165 @@
+{
+    "locations": [
+      {
+        "location_id": 1,
+        "location_name": "San Francisco",
+        "state": "California",
+        "country_name": "United States",
+        "cities": [
+          {
+            "city_id": 101,
+            "city_name": "San Francisco",
+            "restaurants": [
+              {
+                "restaurant_id": 1001,
+                "restaurant_name": "Golden Gate Grill",
+                "location_id": 1,
+                "state_id": 1,
+                "address": "123 Bay St, San Francisco, CA 94123",
+                "restaurant_thumb": "http://example.com/thumbnails/golden_gate_grill.jpg",
+                "mealtype": "Lunch"
+              },
+              {
+                "restaurant_id": 1002,
+                "restaurant_name": "Fisherman's Feast",
+                "location_id": 1,
+                "state_id": 1,
+                "address": "456 Pier 39, San Francisco, CA 94133",
+                "restaurant_thumb": "http://example.com/thumbnails/fishermans_feast.jpg",
+                "mealtype": "Dinner"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "location_id": 2,
+        "location_name": "Toronto",
+        "state": "Ontario",
+        "country_name": "Canada",
+        "cities": [
+          {
+            "city_id": 201,
+            "city_name": "Toronto",
+            "restaurants": [
+              {
+                "restaurant_id": 2001,
+                "restaurant_name": "Maple Delight",
+                "location_id": 2,
+                "state_id": 2,
+                "address": "789 Queen St W, Toronto, ON M5V 2B7",
+                "restaurant_thumb": "http://example.com/thumbnails/maple_delight.jpg",
+                "mealtype": "Breakfast"
+              },
+              {
+                "restaurant_id": 2002,
+                "restaurant_name": "Toronto Treats",
+                "location_id": 2,
+                "state_id": 2,
+                "address": "1010 King St W, Toronto, ON M6K 3N2",
+                "restaurant_thumb": "http://example.com/thumbnails/toronto_treats.jpg",
+                "mealtype": "Dinner"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "location_id": 3,
+        "location_name": "Sydney",
+        "state": "New South Wales",
+        "country_name": "Australia",
+        "cities": [
+          {
+            "city_id": 301,
+            "city_name": "Sydney",
+            "restaurants": [
+              {
+                "restaurant_id": 3001,
+                "restaurant_name": "Sydney Bites",
+                "location_id": 3,
+                "state_id": 3,
+                "address": "111 Darlinghurst Rd, Sydney NSW 2010",
+                "restaurant_thumb": "http://example.com/thumbnails/sydney_bites.jpg",
+                "mealtype": "Lunch"
+              },
+              {
+                "restaurant_id": 3002,
+                "restaurant_name": "Harbour Delights",
+                "location_id": 3,
+                "state_id": 3,
+                "address": "222 Circular Quay W, Sydney NSW 2000",
+                "restaurant_thumb": "http://example.com/thumbnails/harbour_delights.jpg",
+                "mealtype": "Dinner"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "location_id": 4,
+        "location_name": "Mumbai",
+        "state": "Maharashtra",
+        "country_name": "India",
+        "cities": [
+          {
+            "city_id": 401,
+            "city_name": "Mumbai",
+            "restaurants": [
+              {
+                "restaurant_id": 4001,
+                "restaurant_name": "Mumbai Masala",
+                "location_id": 4,
+                "state_id": 4,
+                "address": "333 Colaba Causeway, Mumbai, Maharashtra 400005",
+                "restaurant_thumb": "http://example.com/thumbnails/mumbai_masala.jpg",
+                "mealtype": "Lunch"
+              },
+              {
+                "restaurant_id": 4002,
+                "restaurant_name": "Bollywood Bites",
+                "location_id": 4,
+                "state_id": 4,
+                "address": "444 Juhu Beach, Mumbai, Maharashtra 400049",
+                "restaurant_thumb": "http://example.com/thumbnails/bollywood_bites.jpg",
+                "mealtype": "Dinner"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "location_id": 5,
+        "location_name": "London",
+        "state": "England",
+        "country_name": "United Kingdom",
+        "cities": [
+          {
+            "city_id": 501,
+            "city_name": "London",
+            "restaurants": [
+              {
+                "restaurant_id": 5001,
+                "restaurant_name": "London Dine",
+                "location_id": 5,
+                "state_id": 5,
+                "address": "555 Oxford St, London W1D 1BS",
+                "restaurant_thumb": "http://example.com/thumbnails/london_dine.jpg",
+                "mealtype": "Breakfast"
+              },
+              {
+                "restaurant_id": 5002,
+                "restaurant_name": "Big Ben Bites",
+                "location_id": 5,
+                "state_id": 5,
+                "address": "666 Westminster Bridge Rd, London SE1 7PB",
+                "restaurant_thumb": "http://example.com/thumbnails/big_ben_bites.jpg",
+                "mealtype": "Dinner"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
