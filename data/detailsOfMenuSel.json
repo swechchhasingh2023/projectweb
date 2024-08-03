@@ -1,0 +1,13 @@
+{
+    "selected_item": {
+      "dish_id": 201,
+      "dish_name": "Pancake Platter",
+      "description": "Fluffy pancakes served with maple syrup and fresh fruits.",
+      "price": 300,
+      "quantity": 2,
+      "special_requests": "Extra syrup on the side",
+      "total_price": 600,
+      "image_url": "https://example.com/images/pancake_platter.jpg"
+    }
+  }
+  

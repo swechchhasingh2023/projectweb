@@ -1,0 +1,14 @@
+{
+    "order_update": {
+      "order_id": "123456",
+      "order_status": "Preparing",
+      "payment_status": "Completed",
+      "delivery_details": {
+        "delivery_time": "2024-08-05T19:00:00Z",
+        "delivery_instructions": "Please ring the bell twice upon arrival.",
+        "delivery_fee": 50
+      },
+      "special_instructions": "Add extra napkins with the order."
+    }
+  }
+  

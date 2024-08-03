@@ -7,8 +7,8 @@ const uri = 'mongodb+srv://swechchhasingh2017:3AygzMS5TnB5JX76@mern.mjg31yk.mong
 mongoose.connect(uri)
   .then(() => {
     console.log('MongoDB connected');
-    app.listen(3005, () => {
-      console.log('Server has started on port 3004');
+    app.listen(3009, () => {
+      console.log('Server has started on port 3009');
     });
   })
   .catch(err => {

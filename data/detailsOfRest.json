@@ -1,0 +1,70 @@
+{
+    "restaurant": {
+      "restaurant_id": 1,
+      "restaurant_name": "Morning Bliss",
+      "location": {
+        "location_id": 1,
+        "location_name": "Delhi",
+        "state": "Delhi",
+        "country_name": "India",
+        "address": "123 Morning Street, Connaught Place, Delhi"
+      },
+      "cuisine": "Continental",
+      "meal_types": ["Breakfast", "Brunch"],
+      "average_cost_for_two": 300,
+      "rating": 4.5,
+      "contact_details": {
+        "phone_number": "+91 12345 67890",
+        "email": "contact@morningbliss.com",
+        "website": "https://morningbliss.com"
+      },
+      "opening_hours": {
+        "Monday": "7:00 AM - 11:00 AM",
+        "Tuesday": "7:00 AM - 11:00 AM",
+        "Wednesday": "7:00 AM - 11:00 AM",
+        "Thursday": "7:00 AM - 11:00 AM",
+        "Friday": "7:00 AM - 11:00 AM",
+        "Saturday": "7:00 AM - 12:00 PM",
+        "Sunday": "7:00 AM - 12:00 PM"
+      },
+      "amenities": ["Wi-Fi", "Outdoor Seating", "Pet-Friendly"],
+      "image_gallery": [
+        "https://example.com/images/morning_bliss_1.jpg",
+        "https://example.com/images/morning_bliss_2.jpg",
+        "https://example.com/images/morning_bliss_3.jpg"
+      ],
+      "reviews": [
+        {
+          "review_id": 101,
+          "user_name": "John Doe",
+          "rating": 5,
+          "comment": "Amazing breakfast and great ambiance!",
+          "date": "2024-07-20"
+        },
+        {
+          "review_id": 102,
+          "user_name": "Jane Smith",
+          "rating": 4,
+          "comment": "Good food, but service could be faster.",
+          "date": "2024-07-22"
+        }
+      ],
+      "special_dishes": [
+        {
+          "dish_id": 201,
+          "dish_name": "Pancake Platter",
+          "description": "Fluffy pancakes served with maple syrup and fresh fruits.",
+          "price": 150,
+          "image_url": "https://example.com/images/pancake_platter.jpg"
+        },
+        {
+          "dish_id": 202,
+          "dish_name": "Eggs Benedict",
+          "description": "Classic Eggs Benedict with hollandaise sauce.",
+          "price": 180,
+          "image_url": "https://example.com/images/eggs_benedict.jpg"
+        }
+      ]
+    }
+  }
+  

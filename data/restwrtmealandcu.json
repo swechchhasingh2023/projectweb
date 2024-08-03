@@ -1,0 +1,173 @@
+{
+    "meals": [
+      {
+        "meal_id": 1,
+        "meal_type": "Breakfast",
+        "cuisines": [
+          {
+            "cuisine_id": 1,
+            "cuisine_type": "Continental",
+            "restaurants": [
+              {
+                "restaurant_id": 1,
+                "restaurant_name": "Morning Bliss",
+                "location": {
+                  "location_id": 1,
+                  "location_name": "Delhi",
+                  "state": "Delhi",
+                  "country_name": "India"
+                },
+                "rating": 4.5,
+                "image_url": "https://example.com/images/morning_bliss.jpg"
+              }
+            ]
+          },
+          {
+            "cuisine_id": 2,
+            "cuisine_type": "Indian",
+            "restaurants": [
+              {
+                "restaurant_id": 2,
+                "restaurant_name": "Sunrise Diner",
+                "location": {
+                  "location_id": 3,
+                  "location_name": "Mumbai",
+                  "state": "Maharashtra",
+                  "country_name": "India"
+                },
+                "rating": 4.3,
+                "image_url": "https://example.com/images/sunrise_diner.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meal_id": 2,
+        "meal_type": "Lunch",
+        "cuisines": [
+          {
+            "cuisine_id": 3,
+            "cuisine_type": "Multicuisine",
+            "restaurants": [
+              {
+                "restaurant_id": 3,
+                "restaurant_name": "City Bites",
+                "location": {
+                  "location_id": 2,
+                  "location_name": "Pune",
+                  "state": "Maharashtra",
+                  "country_name": "India"
+                },
+                "rating": 4.4,
+                "image_url": "https://example.com/images/city_bites.jpg"
+              }
+            ]
+          },
+          {
+            "cuisine_id": 4,
+            "cuisine_type": "Awadhi",
+            "restaurants": [
+              {
+                "restaurant_id": 4,
+                "restaurant_name": "Lunch Hour",
+                "location": {
+                  "location_id": 4,
+                  "location_name": "Lucknow",
+                  "state": "Uttar Pradesh",
+                  "country_name": "India"
+                },
+                "rating": 4.2,
+                "image_url": "https://example.com/images/lunch_hour.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meal_id": 3,
+        "meal_type": "Dinner",
+        "cuisines": [
+          {
+            "cuisine_id": 5,
+            "cuisine_type": "Italian",
+            "restaurants": [
+              {
+                "restaurant_id": 5,
+                "restaurant_name": "Night Feast",
+                "location": {
+                  "location_id": 5,
+                  "location_name": "Bangalore",
+                  "state": "Karnataka",
+                  "country_name": "India"
+                },
+                "rating": 4.6,
+                "image_url": "https://example.com/images/night_feast.jpg"
+              }
+            ]
+          },
+          {
+            "cuisine_id": 6,
+            "cuisine_type": "Chinese",
+            "restaurants": [
+              {
+                "restaurant_id": 6,
+                "restaurant_name": "Dinner Delight",
+                "location": {
+                  "location_id": 1,
+                  "location_name": "Delhi",
+                  "state": "Delhi",
+                  "country_name": "India"
+                },
+                "rating": 4.7,
+                "image_url": "https://example.com/images/dinner_delight.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meal_id": 4,
+        "meal_type": "Snacks",
+        "cuisines": [
+          {
+            "cuisine_id": 7,
+            "cuisine_type": "Street Food",
+            "restaurants": [
+              {
+                "restaurant_id": 7,
+                "restaurant_name": "Quick Bite",
+                "location": {
+                  "location_id": 3,
+                  "location_name": "Mumbai",
+                  "state": "Maharashtra",
+                  "country_name": "India"
+                },
+                "rating": 4.2,
+                "image_url": "https://example.com/images/quick_bite.jpg"
+              }
+            ]
+          },
+          {
+            "cuisine_id": 8,
+            "cuisine_type": "Fast Food",
+            "restaurants": [
+              {
+                "restaurant_id": 8,
+                "restaurant_name": "Snack Attack",
+                "location": {
+                  "location_id": 2,
+                  "location_name": "Pune",
+                  "state": "Maharashtra",
+                  "country_name": "India"
+                },
+                "rating": 4.3,
+                "image_url": "https://example.com/images/snack_attack.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

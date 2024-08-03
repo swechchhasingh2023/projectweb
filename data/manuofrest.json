@@ -1,0 +1,73 @@
+{
+    "restaurant": {
+      "restaurant_id": 1,
+      "restaurant_name": "Morning Bliss",
+      "menu": {
+        "appetizers": [
+          {
+            "dish_id": 101,
+            "dish_name": "Cheese Platter",
+            "description": "An assortment of fine cheeses served with crackers and fruits.",
+            "price": 250,
+            "image_url": "https://example.com/images/cheese_platter.jpg"
+          },
+          {
+            "dish_id": 102,
+            "dish_name": "Bruschetta",
+            "description": "Toasted bread topped with a mix of tomatoes, garlic, and basil.",
+            "price": 200,
+            "image_url": "https://example.com/images/bruschetta.jpg"
+          }
+        ],
+        "main_courses": [
+          {
+            "dish_id": 201,
+            "dish_name": "Pancake Platter",
+            "description": "Fluffy pancakes served with maple syrup and fresh fruits.",
+            "price": 300,
+            "image_url": "https://example.com/images/pancake_platter.jpg"
+          },
+          {
+            "dish_id": 202,
+            "dish_name": "Eggs Benedict",
+            "description": "Classic Eggs Benedict with hollandaise sauce.",
+            "price": 350,
+            "image_url": "https://example.com/images/eggs_benedict.jpg"
+          }
+        ],
+        "desserts": [
+          {
+            "dish_id": 301,
+            "dish_name": "Chocolate Lava Cake",
+            "description": "Warm chocolate cake with a molten center, served with vanilla ice cream.",
+            "price": 250,
+            "image_url": "https://example.com/images/chocolate_lava_cake.jpg"
+          },
+          {
+            "dish_id": 302,
+            "dish_name": "Fruit Tart",
+            "description": "A crisp tart filled with pastry cream and topped with fresh fruits.",
+            "price": 220,
+            "image_url": "https://example.com/images/fruit_tart.jpg"
+          }
+        ],
+        "beverages": [
+          {
+            "dish_id": 401,
+            "dish_name": "Fresh Orange Juice",
+            "description": "Chilled fresh orange juice, served with ice.",
+            "price": 150,
+            "image_url": "https://example.com/images/orange_juice.jpg"
+          },
+          {
+            "dish_id": 402,
+            "dish_name": "Coffee",
+            "description": "A hot cup of freshly brewed coffee.",
+            "price": 120,
+            "image_url": "https://example.com/images/coffee.jpg"
+          }
+        ]
+      }
+    }
+  }
+  

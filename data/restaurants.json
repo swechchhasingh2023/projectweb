@@ -1,0 +1,77 @@
+{
+    "cities": [
+      {
+        "location_id": 1,
+        "location_name": "Delhi",
+        "state_id": 101,
+        "state": "Delhi",
+        "country_name": "India"
+      },
+      {
+        "location_id": 2,
+        "location_name": "Pune",
+        "state_id": 102,
+        "state": "Maharashtra",
+        "country_name": "India"
+      },
+      {
+        "location_id": 3,
+        "location_name": "Mumbai",
+        "state_id": 102,
+        "state": "Maharashtra",
+        "country_name": "India"
+      },
+      {
+        "location_id": 4,
+        "location_name": "Lucknow",
+        "state_id": 103,
+        "state": "Uttar Pradesh",
+        "country_name": "India"
+      },
+      {
+        "location_id": 5,
+        "location_name": "Bangalore",
+        "state_id": 104,
+        "state": "Karnataka",
+        "country_name": "India"
+      }
+    ],
+    "restaurants": [
+      {
+        "restaurant_id": 1,
+        "restaurant_name": "Spicy Delight",
+        "location_id": 1,
+        "cuisine": "Indian",
+        "rating": 4.5
+      },
+      {
+        "restaurant_id": 2,
+        "restaurant_name": "Ocean's Grill",
+        "location_id": 2,
+        "cuisine": "Seafood",
+        "rating": 4.0
+      },
+      {
+        "restaurant_id": 3,
+        "restaurant_name": "Mumbai Biryani House",
+        "location_id": 3,
+        "cuisine": "Indian",
+        "rating": 4.2
+      },
+      {
+        "restaurant_id": 4,
+        "restaurant_name": "Lucknowi Kababs",
+        "location_id": 4,
+        "cuisine": "Mughlai",
+        "rating": 4.7
+      },
+      {
+        "restaurant_id": 5,
+        "restaurant_name": "Bangalore Brew Works",
+        "location_id": 5,
+        "cuisine": "Continental",
+        "rating": 4.3
+      }
+    ]
+  }
+  

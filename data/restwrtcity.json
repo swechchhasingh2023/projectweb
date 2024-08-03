@@ -1,0 +1,110 @@
+{
+    "cities": [
+      {
+        "location_id": 1,
+        "location_name": "Delhi",
+        "state_id": 101,
+        "state": "Delhi",
+        "country_name": "India",
+        "restaurants": [
+          {
+            "restaurant_id": 1,
+            "restaurant_name": "Spicy Delight",
+            "cuisine": "Indian",
+            "rating": 4.5
+          },
+          {
+            "restaurant_id": 2,
+            "restaurant_name": "Delhi Diner",
+            "cuisine": "North Indian",
+            "rating": 4.3
+          }
+        ]
+      },
+      {
+        "location_id": 2,
+        "location_name": "Pune",
+        "state_id": 102,
+        "state": "Maharashtra",
+        "country_name": "India",
+        "restaurants": [
+          {
+            "restaurant_id": 3,
+            "restaurant_name": "Ocean's Grill",
+            "cuisine": "Seafood",
+            "rating": 4.0
+          },
+          {
+            "restaurant_id": 4,
+            "restaurant_name": "Pune Spice House",
+            "cuisine": "Indian",
+            "rating": 4.4
+          }
+        ]
+      },
+      {
+        "location_id": 3,
+        "location_name": "Mumbai",
+        "state_id": 102,
+        "state": "Maharashtra",
+        "country_name": "India",
+        "restaurants": [
+          {
+            "restaurant_id": 5,
+            "restaurant_name": "Mumbai Biryani House",
+            "cuisine": "Indian",
+            "rating": 4.2
+          },
+          {
+            "restaurant_id": 6,
+            "restaurant_name": "Mumbai Street Eats",
+            "cuisine": "Street Food",
+            "rating": 4.6
+          }
+        ]
+      },
+      {
+        "location_id": 4,
+        "location_name": "Lucknow",
+        "state_id": 103,
+        "state": "Uttar Pradesh",
+        "country_name": "India",
+        "restaurants": [
+          {
+            "restaurant_id": 7,
+            "restaurant_name": "Lucknowi Kababs",
+            "cuisine": "Mughlai",
+            "rating": 4.7
+          },
+          {
+            "restaurant_id": 8,
+            "restaurant_name": "Awadhi Treats",
+            "cuisine": "Awadhi",
+            "rating": 4.5
+          }
+        ]
+      },
+      {
+        "location_id": 5,
+        "location_name": "Bangalore",
+        "state_id": 104,
+        "state": "Karnataka",
+        "country_name": "India",
+        "restaurants": [
+          {
+            "restaurant_id": 9,
+            "restaurant_name": "Bangalore Brew Works",
+            "cuisine": "Continental",
+            "rating": 4.3
+          },
+          {
+            "restaurant_id": 10,
+            "restaurant_name": "South Spice",
+            "cuisine": "South Indian",
+            "rating": 4.6
+          }
+        ]
+      }
+    ]
+  }
+  

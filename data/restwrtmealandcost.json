@@ -1,0 +1,185 @@
+{
+    "meals": [
+      {
+        "meal_id": 1,
+        "meal_type": "Breakfast",
+        "cost_categories": [
+          {
+            "cost_id": 1,
+            "cost_range": "Budget",
+            "restaurants": [
+              {
+                "restaurant_id": 1,
+                "restaurant_name": "Morning Bliss",
+                "location": {
+                  "location_id": 1,
+                  "location_name": "Delhi",
+                  "state": "Delhi",
+                  "country_name": "India"
+                },
+                "average_cost_for_two": 300,
+                "rating": 4.5
+              },
+              {
+                "restaurant_id": 2,
+                "restaurant_name": "Sunrise Diner",
+                "location": {
+                  "location_id": 3,
+                  "location_name": "Mumbai",
+                  "state": "Maharashtra",
+                  "country_name": "India"
+                },
+                "average_cost_for_two": 400,
+                "rating": 4.3
+              }
+            ]
+          },
+          {
+            "cost_id": 2,
+            "cost_range": "Mid-range",
+            "restaurants": [
+              {
+                "restaurant_id": 3,
+                "restaurant_name": "Morning Glory",
+                "location": {
+                  "location_id": 5,
+                  "location_name": "Bangalore",
+                  "state": "Karnataka",
+                  "country_name": "India"
+                },
+                "average_cost_for_two": 700,
+                "rating": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meal_id": 2,
+        "meal_type": "Lunch",
+        "cost_categories": [
+          {
+            "cost_id": 3,
+            "cost_range": "Budget",
+            "restaurants": [
+              {
+                "restaurant_id": 4,
+                "restaurant_name": "City Bites",
+                "location": {
+                  "location_id": 2,
+                  "location_name": "Pune",
+                  "state": "Maharashtra",
+                  "country_name": "India"
+                },
+                "average_cost_for_two": 500,
+                "rating": 4.4
+              }
+            ]
+          },
+          {
+            "cost_id": 4,
+            "cost_range": "High-end",
+            "restaurants": [
+              {
+                "restaurant_id": 5,
+                "restaurant_name": "Royal Feast",
+                "location": {
+                  "location_id": 4,
+                  "location_name": "Lucknow",
+                  "state": "Uttar Pradesh",
+                  "country_name": "India"
+                },
+                "average_cost_for_two": 1500,
+                "rating": 4.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meal_id": 3,
+        "meal_type": "Dinner",
+        "cost_categories": [
+          {
+            "cost_id": 5,
+            "cost_range": "Mid-range",
+            "restaurants": [
+              {
+                "restaurant_id": 6,
+                "restaurant_name": "Evening Bliss",
+                "location": {
+                  "location_id": 1,
+                  "location_name": "Delhi",
+                  "state": "Delhi",
+                  "country_name": "India"
+                },
+                "average_cost_for_two": 1000,
+                "rating": 4.5
+              }
+            ]
+          },
+          {
+            "cost_id": 6,
+            "cost_range": "High-end",
+            "restaurants": [
+              {
+                "restaurant_id": 7,
+                "restaurant_name": "Gourmet Delight",
+                "location": {
+                  "location_id": 3,
+                  "location_name": "Mumbai",
+                  "state": "Maharashtra",
+                  "country_name": "India"
+                },
+                "average_cost_for_two": 2000,
+                "rating": 4.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meal_id": 4,
+        "meal_type": "Snacks",
+        "cost_categories": [
+          {
+            "cost_id": 7,
+            "cost_range": "Budget",
+            "restaurants": [
+              {
+                "restaurant_id": 8,
+                "restaurant_name": "Quick Snack",
+                "location": {
+                  "location_id": 5,
+                  "location_name": "Bangalore",
+                  "state": "Karnataka",
+                  "country_name": "India"
+                },
+                "average_cost_for_two": 200,
+                "rating": 4.2
+              }
+            ]
+          },
+          {
+            "cost_id": 8,
+            "cost_range": "Mid-range",
+            "restaurants": [
+              {
+                "restaurant_id": 9,
+                "restaurant_name": "Snack Attack",
+                "location": {
+                  "location_id": 2,
+                  "location_name": "Pune",
+                  "state": "Maharashtra",
+                  "country_name": "India"
+                },
+                "average_cost_for_two": 600,
+                "rating": 4.3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
